@@ -1,2 +1,2 @@
-# jobPortal
-job portal project
+# jobBoardProject
+ job board project
